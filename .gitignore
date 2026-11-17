@@ -1,0 +1,9 @@
+node_modules/
+dist/
+data/
+auth_info_baileys/
+.env
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.log
